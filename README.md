@@ -1,0 +1,2 @@
+# stereo
+sample templet "Grid"
